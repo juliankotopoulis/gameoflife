@@ -1,4 +1,4 @@
-#game_of_life
+#main module for game_of_life
 
 # Add systems
 import pygame
